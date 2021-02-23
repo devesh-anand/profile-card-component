@@ -99,7 +99,7 @@ body {
 }
 
 .card-title {
-    padding: 15px 5px;
+    padding: 15px 0px;
     text-align: right;
     font-weight: 700;
     color: hsl(229, 23%, 23%);
@@ -107,7 +107,7 @@ body {
 
 .card-age {
     text-align: left;
-    padding: 15px 5px;
+    padding: 15px 10px;
     color: hsl(227, 10%, 46%);
 }
 
@@ -120,8 +120,8 @@ body {
 
 .card-stats {
     margin-top: 15px;
-    padding: 20px 0;
-    border-top: 10px hsl(229, 23%, 23%);
+    padding: 25px 25px;
+    border-top: 0.5px solid hsl(0, 0%, 70%);
     display: flex;
 }
 
